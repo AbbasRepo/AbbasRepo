@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbbasRepo
-- 👀 I’m interested in Machine Learning / Python / Azure Synapse
-- 🌱 I’m currently learning Azure DevOps/ Power BI/ Azure Data Factory
-- 💞️ I’m looking to collaborate on Dimensional Modeling/ Azure Data Engineering / Analytics
+- 👀 I’m interested in <b>Machine Learning / Python / Azure Synapse</b>
+- 🌱 I’m currently learning <b>Azure DevOps/ Power BI/ Azure Data Factory</b>
+- 💞️ I’m looking to collaborate on <b>Dimensional Modeling/ Azure Data Engineering / Analytics</b>
 - 📫 How to reach me +447557919053 / abbas.a.kapasi@gmail.com 
 
 <!---
